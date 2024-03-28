@@ -13,3 +13,7 @@ Head Gear is a state-of-the-art smart helmet designed to enhance rider safety an
 * Overspeed Detection: Head Gear employs precise speed sensors to detect and alert riders when they exceed the speed limit, promoting adherence to traffic regulations and reducing the risk of accidents.
 
 Head Gear is a comprehensive smart helmet solution that integrates cutting-edge technologies to prioritize rider safety. By combining accident prevention features, alcohol detection, ADAS capabilities, and overspeed detection, the helmet aims to minimize road accidents and ensure a safer riding experience for all.
+
+## Patent:
+Patent Name: HEAD GEAR SYSTEM AND METHOD FOR ENSURING THE SAFETY OF A RIDER OF A VEHICLE
+Patent No: 202141060755
